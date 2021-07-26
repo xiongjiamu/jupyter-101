@@ -6,3 +6,4 @@ install.py
 java/*
 java/
 *.ipyhistory
+jupyter-c-kernel
