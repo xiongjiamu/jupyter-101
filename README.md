@@ -19,7 +19,7 @@ Jupyter 基础知识项目仓库地址 <https://codechina.csdn.net/xiongjiamu/ju
 
 [JupyterLab 传送门](http://34.81.65.238/v2/git/https%3A%2F%2Fcodechina.csdn.net%2Fxiongjiamu%2Fjupyter-101/HEAD)
 
-这个仓库内容比较少，大部分为 ipynb 笔记 以及 markdown 文件内容，build 过程大概 3~5 分钟左右。
+这个仓库内容比较少，大部分为 ipynb 笔记 以及 markdown 文件内容，首次 build 过程大概 3~5 分钟左右，后续打开 1 分钟左右。
 
 
 ## 初学者练习仓库
@@ -28,4 +28,4 @@ Jupyter 初学者练习项目仓库地址 <https://codechina.csdn.net/mirrors/ju
 
 [JupyterLab 传送门](http://34.81.65.238/v2/git/https%3A%2F%2Fcodechina.csdn.net%2Fmirrors%2Fjupyterlab%2Fscipy2018-jupyterlab-tutorial/HEAD)
 
-这个仓库比较大，整个 build 过程将近 10 分钟左右，请耐心等待。
+这个仓库比较大，首次 build 过程将近 10 分钟左右，请耐心等待，再次打开也差不多将近 1 分钟左右。
